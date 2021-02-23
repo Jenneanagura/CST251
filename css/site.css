@@ -1,0 +1,56 @@
+html, body {
+
+  font-family: monospace,sans-serif;
+  font-style: oblique;
+  font-size: 15px;
+  line-height: 1.5;
+  /* colors can be specified by name, or by "hex value" */
+  color: darkgrey;
+  Background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  padding: 20px;
+  padding-top: 20px;
+body{
+
+}
+}
+.minor-sections{
+  padding: 10px;
+  color:pink;
+  margin-left: auto;
+}
+.major-sections{
+color: red;
+}
+}
+img{
+padding: 10px;
+display: block;
+background: lightblue;
+}
+{
+  background: lightblue
+}
+a{
+  color: maroon;
+  a{
+    colore:pink;
+  }
+
+}
+#headshot {
+    float: right;
+    margin: 10px;
+  }
+  #headshot img {
+      width: 300;
+  }
+  h1, h2, h2 {
+      border: 2px dotted white;
+      border-radius: 1px;
+      border padding: 10px
+      border color: maroon;
+      font-family: cursive;
+      color: grey;
