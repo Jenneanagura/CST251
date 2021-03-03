@@ -1,0 +1,10 @@
+body{
+  background color: blue;
+}
+
+#kiwi{
+  margin: 20px;
+  padding: 10px;
+  border: solid 1px black;
+  border-radius: 5px;
+  background-color: maroon;
