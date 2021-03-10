@@ -32,7 +32,7 @@ img {
   display: block;
   margin-left:390px;
   margin-right: auto;
-  width: 150px;
+  width: px;
   padding: 10px;
   border: double 8px #f1c0b0;
   border-radius: 5px;
@@ -88,11 +88,7 @@ aside#sidebar {
 }
 
 
-a {
-  #000000;
-[B]clear:right;[/B]
-text-align: center;
-}
+
 
 h2#aboutme {
   Color: red;
@@ -137,6 +133,27 @@ div#center-img{
   margin-left: auto;
   margin-right: auto;
   width: 150px;
+}
+div#picinbox{
+  display: block;
+  display: flex;
+  overflow: hidden;
+  width: 900px;
+  height: 200px;
+  overflow-y: scroll;
+  text-align: center;
+  background-color: pink;
+  position: sticky;
+  display: block;
+  border-style: double;
+  margin-left: 100px;
+  padding-right: 100px;
+
+}
+
+div#picinbox.a{
+  padding-left: 100px;
+
 }
 }
 div#center-both{
