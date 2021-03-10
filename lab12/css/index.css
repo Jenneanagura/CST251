@@ -1,0 +1,159 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-image: url("https://thumbs.dreamstime.com/b/variegated-leaves-monstera-split-leaf-philodendron-tropical-plant-isolated-white-background-139309704.jpg");
+    background-color: #cccccc;
+    padding: 25px;
+    font-size: 120%;
+}
+
+#content {
+  display: inline-Block
+  width: 55%;
+}
+
+
+.major-section {
+  margin: 20px;
+  padding: 10px;
+  border: double 8px #f1c0b0;
+  border-radius: 5px;
+  background-color: rgba(25, 6, 30, 0.5);
+  border-radius: 10px;
+}
+
+.minor-section {
+  padding: 1px, 30px;
+  margin: 15px;
+  background-color: #f2b0c0;
+  border-radius: 10px;
+}
+
+img {
+  display: block;
+  margin-left:390px;
+  margin-right: auto;
+  width: 150px;
+  padding: 10px;
+  border: double 8px #f1c0b0;
+  border-radius: 5px;
+  background-color: rgba(25, 6, 30, 0.5);
+  border-radius: 10px;
+}
+
+h1, h2, h3 {
+    font-family: "photography";
+    text-align: center;
+    background-size: 20%;
+    background-position: center;
+    background-color: white;
+    text-shadow: 10px;
+
+
+
+}
+p1{
+  font-family: "photography";
+  text-align: center;
+  background-size: 20%;
+  background-position: center;
+  background-color: white;
+  text-shadow: 10px;
+
+}
+
+a {
+  #000000;
+[B]clear:right;[/B]
+float:left;
+margin:100px 200px 300px 400px;
+}
+
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+aside#sidebar {
+  position: fixed;
+  Block: inline;
+  width: 30%;
+  Width-minimal:300px
+
+}
+
+
+a {
+  #000000;
+[B]clear:right;[/B]
+text-align: center;
+}
+
+h2#aboutme {
+  Color: red;
+}
+
+.content {
+  text-decoration-color: blue;
+  text-align: center;
+}
+div#floated {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+  float: left;
+  padding: 1px, 30px;
+  margin: 30px;
+  margin-top: 300px;
+  background-color: #f2b0c0;
+
+}
+p,div#centered-horiz{
+  display: flex;
+  justify-content:center;
+  border-style: double;
+  float: none;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 15px;
+  background-color: #f2b0c0;
+  border-radius: 10px;
+}
+.center{
+  text-align: center;
+}
+div#center-img{
+  display: block;
+  display: flex;
+  justify-content: : center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+}
+div#center-both{
+  display: block;
+  display: flex;
+  justify-content: : center;
+  align-items: center;
+  height: 800%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+
+
+p {
+text-decoration-color: blue;
+font-family: helvetica;
+text-align: center;
+
+}
