@@ -6,6 +6,12 @@ body {
     font-size: 120%;
 }
 
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}
 
 
 h1, h2, h3, h4 {

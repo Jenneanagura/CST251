@@ -1,0 +1,14 @@
+
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-image: url("https://image.freepik.com/free-photo/pink-sky-with-white-clouds-with-blurred-pattern-background_40377-648.jpg");
+    background-color: #cccccc;
+    padding: 25px;
+    font-size: 120%;
+  }
+  iframe#fake {
+      width: 800px;
+      height: 500px;
+      resize: both;
+      overflow: hidden;
+  }
