@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-image: url("https://cdn.wallpapersafari.com/7/94/sdJiZX.jpg");
+    background-color: #cccccc;
+    padding: 25px;
+    font-size: 120%;
+  }
+  iframe#fake {
+      width: 800px;
+      height: 500px;
+      resize: both;
+      overflow: hidden;
+  }
+  p {
+    color: white;
+}
+h1 {
+  color: grey;
+}
