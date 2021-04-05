@@ -1,0 +1,25 @@
+main {
+  border-style: solid;
+  border-radius: 1px;
+}
+header {
+  border-style: solid;
+  border-radius: 1px;
+}
+footer {
+  border-style: solid;
+  border-radius: 1px;
+}
+nav {
+  border-style: solid;
+  border-radius: 1px;
+}
+section {
+  border-style: solid;
+  border-radius: 1px;
+}
+aside {
+  float:inherit;
+  border-style: solid;
+  border-radius: 1px;
+}

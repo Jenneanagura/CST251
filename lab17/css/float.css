@@ -1,0 +1,46 @@
+nav {
+  width:800px;
+  height:165px;
+  clear:left;
+  Float:top;
+  display:block;
+  border-style: solid;
+  border-radius: 1px;
+}
+main {
+  width:800px;
+  clear:right;
+  display:block;
+  float:left;
+  border-style: solid;
+  border-radius: 1px;
+}
+header {
+  text-align: center;
+  clear:left;
+  display:block;
+  float:top;
+  border-style: solid;
+  border-radius: 1px;
+}
+aside {
+  clear:right;
+  display:block;
+  float:right;
+  border-style: solid;
+  border-radius: 1px;
+}
+footer {
+  text-align: center;
+  clear:left;
+  display:block;
+  float:bottom;
+  border-style: solid;
+  border-radius: 1px;
+}
+section {
+  display:block;
+  float:inherit;
+  border-style: solid;
+  border-radius: 1px;
+}
