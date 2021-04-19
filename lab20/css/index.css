@@ -1,0 +1,89 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12b6VWrhAQMU-S_N-KnpmH9xanKVQV84eJUI8tAzf66uwN6YvVrfckIXCaszX2P_0gPM&usqp=CAU");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+    font-size: 120%;
+}
+
+
+
+h1, h2, h3 {
+    font-family: "photography";
+    text-align: center;
+    background-size: 20%;
+    background-position: center;
+    background-color: white;
+    text-shadow: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+
+
+}
+p1{
+  font-family: "photography";
+  text-align: center;
+  background-size: 20%;
+  background-position: center;
+  background-color: white;
+  text-shadow: 10px;
+
+}
+
+a {
+  #000000;
+[B]clear:right;[/B]
+float:left;
+margin:100px 200px 300px 400px;
+}
+
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+aside#sidebar {
+  position: fixed;
+  Block: inline;
+  width: 30%;
+  Width-minimal:300px
+
+}
+
+
+
+
+
+
+a {
+  #000000;
+[B]clear:right;[/B]
+text-align: center;
+}
+
+h2#aboutme {
+  Color: red;
+}
+
+.content {
+  text-decoration-color: blue;
+  text-align: center;
+}
+
+
+p {
+text-decoration-color: blue;
+font-family: helvetica;
+text-align: center;
+
+}
